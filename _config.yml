@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Isaac Liu # the website title (if blank, full name will be used instead)
+title: Fengwei (Isaac) Liu # the website title (if blank, full name will be used instead)
 first_name: Fengwei
 middle_name: (Isaac)
 last_name: Liu
 email: fengweiliu@cmail.carleton.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi! I'm Isaac. Nice to meet you!
+  This is Fengwei Liu's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -256,6 +256,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-seo-tag
 
 # Sitemap settings
 defaults:
