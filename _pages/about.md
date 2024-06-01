@@ -7,13 +7,13 @@ subtitle: Master of Cognitive Science student at <a href='https://carleton.ca/co
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>he/him</p>
     <p>2201 Dunton Tower, Carleton University, Ottawa, CA</p>
-    <p>fengweiliu at cmail dot carleton dot ca</p>
+    <p>fengweiliu at cmail.carleton.ca</p>
     <p>or</p>
-    <p>zhenya dot isaac at gmail dot com</p>
+    <p>zhenya.isaac at gmail.com</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
