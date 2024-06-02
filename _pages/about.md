@@ -12,16 +12,14 @@ profile:
     <p>he/him</p>
     <p>2201 Dunton Tower, Carleton University, Ottawa, CA</p>
     <p>fengweiliu at cmail.carleton.ca</p>
-    <p>or</p>
-    <p>zhenya.isaac at gmail.com</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, nice to meet you! I'm Isaac, a `linguistics` researcher, a `Cog. Sc.` student, and an `NLP` novice. This June I'll graduate with a BA in Russian from [Shanghai International Studies University](https://en.shisu.edu.cn/) and will move to Ottawa to attend [Carleton University](https://carleton.ca/) for grad school. I will be joining the [L-Neuro Lab](https://www.olessiajouravlev.com/) and the [ANIMUS Lab](https://carleton.ca/animus/) with Dr. Jouravlev and Dr. Kelly as my supervisers.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm generally interested in empirical and computational studies of diversity in languages. In terms of language and social diversity, I study the discursive construction of identities, biases, and attitudes. This interest was formulated through my first ever research project which ethnographically investigated language shift within the Ukrainian diaspora in Shanghai following the 2022 Russian invasion. I am currently working on a new project that adopts data-driven methods to untangle the biases embedded in Shanghai new media targeted at local transnational workers. In terms of diversity across language structures, I am interested in how the universialities and language contingencies interact in multilingual minds. My undergrad thesis compared diachronic Dependency Distance Minimization in Russian and English using corpus data across hundreds of years. The findings revealed how cross-linguistic properties like morphological richness and ordering flexibility may have influenced the cognitive constraints during syntactic processing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I seek to 
