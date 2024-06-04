@@ -22,7 +22,7 @@ Hi, good to see you here! I'm Isaac, a `linguistics` researcher, a `Cog. Sc.` st
 
 I'm generally interested in empirical and computational studies of diversity in languages. In particular:
 * Language and social diversity: the discursive construction of identities, ideologies, and biases.
-* Diversity across language structures: how the universalities and language contingencies interact in multilingual minds. My undergrad thesis investigated this effect on Dependency Distance Minimization.
+* Diversity across language structures: how the universalities and language contingencies interact in multilingual minds. My undergrad thesis investigated this effect on Dependency Distance Minimization.<br>
 Meanwhile, I am curious about how my research may be put into practice to tackle real-life technical issues. This is why I've been actively learning `Data Science and NLP`.
 
 I am currently working on a new project that adopts ML methods to untangle the biases embedded in Shanghai new media targeted at local transnational workers. Building on this project, I wish to examine how the dynamic nature of discursive practice and commonsense reasoning may be modeled or processed by NLP systems, and how this process forms a better understanding of the human mind.
