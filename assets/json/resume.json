@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "contact": {
     "name": "Fengwei Liu",
     "label": "M. Cog. Sc. student",
     "image": "",
@@ -15,7 +15,55 @@
       "region": "Ontario"
     }
   },
-  "work": [
+  "education": [
+    {
+      "institution": "Carleton University",
+      "location": "Ottawa, Canada",
+      "url": "https://carleton.ca/cognitivescience/",
+      "area": "Cognitive linguistics, NLP",
+      "studyType": "Master of Cognitive Science",
+      "startDate": "2024-09-01",
+      "endDate": "2026-07-01"
+    },
+    {
+      "institution": "Shanghai International Studies University",
+      "location": "Shanghai, PRC",
+      "url": "https://en.shisu.edu.cn/",
+      "area": "Russian",
+      "studyType": "B.A.",
+      "startDate": "2020-09-01", 
+      "endDate": "2024-06-30"
+    },
+    {
+      "institution": "Kazan Federal University",
+      "location": "Kazan, Russia",
+      "url": "https://eng.kpfu.ru/", 
+      "area": "Philology", 
+      "studyType": "Exchange Program", 
+      "startDate": "2022-09-01",
+      "endDate": "2023-06-10"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Multilingualism, language choice, and identity construction: Diasporic Ukrainians in Shanghai",
+      "publisher": "Journal of Sociolinguistics",
+      "releaseDate": "2024-04-10",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12652",
+      "summary": "This study shows that the construction of diasporic identity is, first of all, an individualistic process, articulating the affective aspect in their seeking psychological stability; it is also a social practice indicating diasporic people's strategies in seeking social stability."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ],
+  "employment": [
     {
       "name": "Shanghai Artificial Intelligence Lab",
       "location": "Shanghai, PRC",
@@ -53,7 +101,7 @@
       "name": "Language Index, Virtual Linguistics Campus (VLC)",
       "position": "Data Contributor",
       "url": "https://oer-vlc.de/mod/glossary/showentry.php?eid=5455",
-      "date": "2022-07-01",
+      "startDate": "2022-07-01",
       "summary": "Delivered audio recordings, transcription, transliteration, and translation for Wu Chinese (Shanghainese)."
     }
   ],
@@ -67,35 +115,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Carleton University",
-      "location": "Ottawa, Canada",
-      "url": "https://carleton.ca/cognitivescience/",
-      "area": "Cognitive linguistics, NLP",
-      "studyType": "Master of Cognitive Science",
-      "startDate": "2024-09-01",
-      "endDate": "2026-07-01"
-    },
-    {
-      "institution": "Shanghai International Studies University",
-      "location": "Shanghai, PRC",
-      "url": "https://en.shisu.edu.cn/",
-      "area": "Russian",
-      "studyType": "B.A.",
-      "startDate": "2020-09-01", 
-      "endDate": "2024-06-30"
-    },
-    {
-      "institution": "Kazan Federal University",
-      "location": "Kazan, Republic of Tatarstan, Russia",
-      "url": "https://eng.kpfu.ru/", 
-      "area": "Philology", 
-      "studyType": "Exchange Program", 
-      "startDate": "2022-09-01",
-      "endDate": "2023-06-10"
     }
   ],
   "awards": [
@@ -149,15 +168,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Multilingualism, language choice, and identity construction: Diasporic Ukrainians in Shanghai",
-      "publisher": "Journal of Sociolinguistics",
-      "releaseDate": "2024-04-10",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12652",
-      "summary": "This study shows that the construction of diasporic identity is, first of all, an individualistic process, articulating the affective aspect in their seeking psychological stability; it is also a social practice indicating diasporic people's strategies in seeking social stability."
     }
   ],
   "skills": [
@@ -224,16 +234,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
