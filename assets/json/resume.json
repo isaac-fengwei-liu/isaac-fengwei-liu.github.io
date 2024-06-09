@@ -55,15 +55,48 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Bias mining in new media with semi-supervised clustering: Discursive representations of foreign talents in Shanghai",
+      "summary": "A collaboration with Dr. Noboru Matsuda and Dr. Yuanyuan Liu",
+      "highlights": ["Independently modified a Python web scraper that successfully bypassed anti-scraping measures, compiling a corpus of more than 10,000 articles.", 
+      "Cleaned and preprocessed the whole corpus, including tokenization and removal of Chinese characters, headers and footers, template texts, emoticons, and urls", 
+    "I am currently enhancing collocational analysis with dependency parsers, so that the limitations of context window could be solved.", 
+  "We're currently exploring how discursive devices may bias the representations of foreign residents. The ultimate aim is to develop unsupervised or semi-supervised ML models that detects, clusters, and flags unkown media biases. This goal falls into the bigger framework of disinformation detection."],
+      "startDate": "2024-03-01",
+      "url": ""
+    },
+    {
+      "name": "Diachronic Changes in Dependency Distance: Evidence from Russian Corpora",
+      "summary": "My undergrad thesis",
+      "highlights": ["Implemented preprocessing, tokenization, and syntactic parsing on a 250-million-token diachronic corpus with spaCy.", 
+    "Developed an algorithm that computed the Mean Dependency Distance of all sentences. Then conducted ANOVA and Tukey HSD analyses in R.",
+  "Reviewed literature on syntactic complexity and cognitive constraints during incremental processing. Interpreted empirical findings and deducted scientific explanations."],
+      "startDate": "2023-11-28",
+      "endDate": "2024-04-01",
+      "url": ""
+    },
+    {
+      "name": "How topicality affects pronoun interpretation",
+      "summary": "RAship under the supervision of Dr. Heeju Hwang at HKU",
+      "highlights": ["Coded two sentence-continuation experiments which manipulated the topicality of Mandarin sentences via comparison of canonical and left-dislocated structures. Interpreted the referents of the tested pronouns as a function of grammatical role.", 
+      "Advanced the coding scheme via introducing a new exclusion type to assist with data cleaning.", 
+      "Distributed experimental surveys to native Mandarin speakers and negotiated monetary incentives."],
+      "startDate": "2023-07-10",
+      "endDate": "2023-09-01",
+      "url": ""
+    },
+    {
+      "name": "Multilingualism, language choice and identity construction: Diasporic Ukrainians in Shanghai",
+      "summary": "An ethnographic study supervised by Dr. Yuanyuan Liu",
+      "highlights": ["Recruited 6 participants by surveying social media profiles. Conducted 6-month netnographic observations.", 
+      "Led or assisted in 5 semi-structured interviews. Designed guided narrative frame writings.", 
+      "Created a coding manual and conducted thematic analysis. Took substantial part in drafting and revising the manuscript.",
+    "Presented the findings at International Symposium on Bilingualism 14, 7th Word Congress of IPSA, and other conferences."],
+      "startDate": "2022-06-10",
+      "endDate": "2023-11-01",
+      "url": ""
     }
   ],
-  "employment": [
+  "employment & Outreach": [
     {
       "name": "Shanghai Artificial Intelligence Lab",
       "location": "Shanghai, PRC",
@@ -102,6 +135,7 @@
       "position": "Data Contributor",
       "url": "https://oer-vlc.de/mod/glossary/showentry.php?eid=5455",
       "startDate": "2022-07-01",
+      "endDate": "2022-07-31",
       "summary": "Delivered audio recordings, transcription, transliteration, and translation for Wu Chinese (Shanghainese)."
     }
   ],
