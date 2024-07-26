@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've officially graduated from my undergrad program!! :mortar_board: :confetti_ball:
+I have officially graduated from my undergrad program!! :mortar_board: :confetti_ball:
