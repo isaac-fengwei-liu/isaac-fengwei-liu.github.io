@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, good to see you here! I'm Isaac, a `linguistics` researcher, a `Cog. Sc.` student, and an `NLP` novice. This June I'll graduate with a BA in Russian from [Shanghai International Studies University](https://en.shisu.edu.cn/) and will move to Ottawa to join the [L-Neuro Lab](https://www.olessiajouravlev.com/) and the [ANIMUS Lab](https://carleton.ca/animus/), with Dr. Jouravlev and Dr. Kelly as my supervisors.
+Hi, good to see you here! I'm Isaac, a `linguistics` researcher, a `Cog. Sc.` student, and an `NLP` novice. I've recently graduated with a BA in Russian from [Shanghai International Studies University](https://en.shisu.edu.cn/) and will move to Ottawa in 2025 Fall to join the [L-Neuro Lab](https://www.olessiajouravlev.com/) and the [ANIMUS Lab](https://carleton.ca/animus/), with Dr. Jouravlev and Dr. Kelly as my supervisors. I'm currently seeking professional development in this bridging year.
 
 I'm generally interested in empirical and computational studies of diversity in languages. In particular:
 * Language and social diversity: the discursive construction of identities, ideologies, and biases.
