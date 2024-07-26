@@ -22,8 +22,8 @@
       "url": "https://carleton.ca/cognitivescience/",
       "area": "Cognitive linguistics, NLP",
       "studyType": "Master of Cognitive Science",
-      "startDate": "2024-09-01",
-      "endDate": "2026-07-01"
+      "startDate": "2025-09-01",
+      "endDate": "2027-07-01"
     },
     {
       "institution": "Shanghai International Studies University",
@@ -106,7 +106,7 @@
       "endDate": "2024-07-01",
       "summary": "Assisted in the construction of a 30Tb multilingual, multimodal database",
       "highlights": ["Investigated and provided over 300 content-rich websites and datasets in 8 languages. Drafted collection instructions for these websites, which constituted over 4tb data.",
-    "Conducted quality assessment for over 500 peices of Russian text, image, and audio samples. Annotated, categorized, and reported language-contingent issues, and suggested workarounds.",
+    "Conducted quality assessment for over 1000 pieces of Russian text, image, and audio samples. Annotated, categorized, and reported language-contingent issues, and suggested workarounds.",
     "To address the issues found, wrote a manual that guided database specialist to distinguish Russian from other languages and deal with language-specific properties.", 
     "Assisted in other data-processing tasks such as toxic language in Russian."]
     },
