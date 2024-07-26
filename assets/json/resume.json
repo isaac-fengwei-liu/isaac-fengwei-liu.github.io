@@ -58,9 +58,10 @@
       "name": "Bias mining in new media with semi-supervised clustering: Discursive representations of foreign talents in Shanghai",
       "summary": "A collaboration with Dr. Noboru Matsuda and Dr. Yuanyuan Liu",
       "highlights": ["Independently modified a Python web scraper that successfully bypassed anti-scraping measures, compiling a corpus of more than 10,000 articles.", 
-      "Cleaned and preprocessed the whole corpus, including tokenization and removal of Chinese characters, headers and footers, template texts, emoticons, and urls", 
-    "I am currently enhancing collocational analysis with dependency parsers, so that the limitations of context window could be solved.", 
-  "We're currently exploring how discursive devices may bias the representations of foreign residents. The ultimate aim is to develop unsupervised or semi-supervised ML models that detects, clusters, and flags unkown media biases. This goal falls into the bigger framework of disinformation detection."],
+      "Cleaned and preprocessed the whole corpus, including tokenization and removal of Chinese characters, headers and footers, template texts, emoticons, and URLs.", 
+      "Created an algorithm that exhaustively selects all collocate candidates by computing T-test over CF-ISF (Collocate Frequency – Inverse Sentence Frequency).",
+    "We are currently designing and experimenting with Differential Collocation Analysis, which first learns the “biased” collocates, then uses them as embeddings. I am also enhancing collocational analysis with dependency parsers, so that the limitations of context window could be solved.", 
+  "We want to explore how discursive devices may bias the representations of foreign residents. The ultimate aim is to develop unsupervised or semi-supervised ML models that detect, cluster, and flag unknown media biases. This goal falls into the bigger framework of disinformation detection."],
       "startDate": "2024-03-01",
       "url": ""
     },
