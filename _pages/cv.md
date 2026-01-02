@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV_Fengwei_2024-07-27.pdf
+cv_pdf: Isaac_Liu-CV-2026.pdf
 description:
 toc:
   sidebar: left
