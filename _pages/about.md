@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master of Cognitive Science student at <a href='https://carleton.ca/cognitivescience/'>Carleton U</a>
+subtitle: Cognitive Neuroscience, UX Research, Data Science
 
 profile:
   align: right
@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>he/him</p>
-    <p>2201 Dunton Tower, Carleton University, Ottawa, CA</p>
     <p>fengweiliu at cmail.carleton.ca</p>
 
 news: true # includes a list of news items
@@ -18,14 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, good to see you here! I'm Isaac, a `linguistics` researcher, a `Cog. Sc.` student, and an `NLP` novice. I've recently graduated with a BA in Russian from [Shanghai International Studies University](https://en.shisu.edu.cn/) and will move to Ottawa in 2025 Fall to join the [L-Neuro Lab](https://www.olessiajouravlev.com/) and the [ANIMUS Lab](https://carleton.ca/animus/), with Dr. Jouravlev and Dr. Kelly as my supervisors. I'm currently seeking professional development in this bridging year.
+Hi, good to see you here! I'm a Master of Cognitive Science (Data Science spec.) student at Carleton University in Ottawa <i class="fa-brands fa-canadian-maple-leaf"></i> I'm researching the cognitive neuroscience of language at the [L-Neuro Lab](https://www.lneuro.ca/) and computational models of cognition at [ANIMUS Lab](https://carleton.ca/animus/).
 
-I'm generally interested in empirical and computational studies of diversity in languages. In particular:
-* Language and social diversity: the discursive construction of identities, ideologies, and biases.
-* Diversity across language structures: how the universalities and language contingencies interact in multilingual minds. My undergrad thesis investigated this effect on Dependency Distance Minimization.
+My current research studies how language-specific concepts are organized in the bilingual brain. I'm also studying whether multilingual LLMs form comparable representational structures. In particular:
+* <i class="fa-light fa-brain"></i> Whether semantic associations specific to one language transfer to another
+* <i class="fa-light fa-microchip"></i> Whether similar interference affects how Transformer-based LMs encode concepts.
 
-Meanwhile, I am curious about how my research may be put into practice to tackle real-life technical issues. This is why I've been actively learning `Data Science and NLP`.
-
-I am currently working on a new project that adopts ML methods to untangle the biases embedded in Shanghai new media targeted at local transnational workers. Building on this project, I wish to examine how the dynamic nature of discursive practice and commonsense reasoning may be modeled or processed by NLP systems, and how this process forms a better understanding of the human mind.
-
-I seek topics that couple the acuteness of humanities and the pragmatism of engineering. I'll dedicate my master's degree to explore what linguistic diversity entails about the human cognition and how this can inspire well-rounded, ethical machine intelligence.
+Meanwhile, I love doing reasearch in the industry. I'm passionate about bringing cognitive science to real life in the context of HCI, user research, and behavioural economics. Human factors are rarely considered but are essential for understanding the users, informing a business in its product design and customer engagement tactics. These are differentiating acumens that set a business apart in this AI hype. My current interests lie in human-AI interaction and decision-making biases. I'm ready to hop on a project so feel free to [book a chat with me](https://calendly.com/zhenya-isaac/connect)!
