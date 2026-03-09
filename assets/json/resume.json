@@ -6,7 +6,7 @@
     "email 1": "isaacfwl@icloud.com",
     "email 2": "fengweiliu@cmail.carleton.ca",
     "url": "https://isaac-fengwei-liu.github.io/",
-    "summary": "My goal is to develop NLP systems inspired by multilingual minds.",
+    "summary": "I research human and artificial minds.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -205,14 +205,14 @@
     {
       "title": "Ontario Graduate Scholarship",
       "date": "2025-09-01",
-      "awarder": "Ontario",
+      "awarder": "Carleton University",
       "url": "",
       "summary": "CAD 10,000 | 2025 – 2026"
     },
     {
       "title": "Sino-Russian Government Exchange Scholarship",
       "date": "2022-09-01",
-      "awarder": "Government",
+      "awarder": "China Scholarship Council",
       "url": "",
       "summary": "USD 12,000 | 2022 – 2023"
     },
@@ -276,6 +276,7 @@
       "keywords": [
         "Machine Learning / Deep Learning",
         "NLP",
+        "LLM",
         "Classification",
         "Clustering",
         "Regression",
@@ -289,26 +290,27 @@
       "keywords": [
         "Interviewing",
         "Usability Testing",
-        "Grounded Theory",
+        "Thematic Analysis",
         "Ethnography",
-        "Content Analysis"
+        "Survey Design",
+        "Heuristic Assessment"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Mandarin & Wu Chinese",
+      "language": "Mandarin & Shanghainese",
       "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent (IELTS 8.0)",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "Russian",
-      "fluency": "Intermediate",
+      "fluency": "Advanced",
       "icon": ""
     },
     {

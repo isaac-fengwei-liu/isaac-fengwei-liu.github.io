@@ -65,6 +65,22 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+      - name: Prepare assets directory
+        run: mkdir -p assets/img
+      - name: Generate GitHub stats cards 📊
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=default&show_icons=false
+          path: assets/img/github-stats-${{ github.repository_owner }}-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate GitHub stats card (dark theme) 📊
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=dark&show_icons=false
+          path: assets/img/github-stats-${{ github.repository_owner }}-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
