@@ -227,17 +227,17 @@
   "certificates": [
     {
       "name": "User Research – Methods and Best Practices",
-      "date": "2025-01-01",
+      "date": "2025-02-12",
       "issuer": "Interaction Design Foundation (IxDF)",
-      "url": "https://www.interaction-design.org/",
-      "icon": "fa-solid fa-magnifying-glass"
+      "url": "https://www.interaction-design.org/members/fengwei-liu/certificate/course/23421f36-e78d-4315-be69-d6d8cde4be39",
+      "icon": "fa-solid fa-users-viewfinder"
     },
     {
       "name": "Conducting Usability Testing",
-      "date": "2025-01-01",
+      "date": "2025-03-16",
       "issuer": "Interaction Design Foundation (IxDF)",
-      "url": "https://www.interaction-design.org/",
-      "icon": "fa-solid fa-clipboard-check"
+      "url": "https://www.interaction-design.org/members/fengwei-liu/certificate/course/0fcde21f-a153-4e24-829d-8dc78f4c0c7d",
+      "icon": "fa-solid fa-arrows-to-eye"
     }
   ],
   "skills": [

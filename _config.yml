@@ -625,5 +625,5 @@ jsonresume:
   - skills
   - certificates
   - languages
-  - interests
+  # - interests
   - references
